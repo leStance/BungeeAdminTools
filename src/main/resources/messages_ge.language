@@ -4,13 +4,13 @@
 alreadyBan=&cDieser Spieler wurde schon von diesem Server gebannt!
 banBroadcast=&a{0}&e wurde dauerhaft von &a{1}&e vom Server &a{2}&6 gebannt! &eGrund : {3}
 banTempBroadcast=&a{0}&e wurde zeitlich &a{1}&e von &a{2}&e vom Server &a{3} &6gebannt! &eGrund : {4}
-isBanned=Du wurdest am {1} von {2} von diesem Server gabannt. Grund: {0}
-isBannedTemp=Du wurdest am {2} von {3} von diesem Server gebannt! Grund: {0} Dein Bann endet in: {1}
+isBanned=&7« &eSwishMC &7» Du wurdest am {1} von {2} von SwishMC gebannt. &c {0}
+isBannedTemp=&7« &eSwishMC &7» Du wurdest am {2} von {3} von SwishMC gebannt! &c {0} Dein Bann endet in: {1}
 notBanned=&c{0} ist nicht von diesem Server gebannt.
 notBannedAny=&c{0} ist nicht gebannt.
 notBannedIP=&c{0} ist nicht IP gebannt.
 unbanBroadcast=&a{0}&e wurde von &a{1}&e vom Server &a{2}&6 entbannt.&e Grund : {3}
-wasBannedNotif=Du wurdest gebannt. &eGrund : {0}
+wasBannedNotif= &7« &eSwishMC &7» &3Du wurdest von SwishMC gebannt! &c{0}
  
 # Mute module
 alreadyMute=&cDieser Spieler wurde schon gemutet!
@@ -22,14 +22,14 @@ notMuted=&c{0} ist nicht auf diesem Server gemutet.
 notMutedAny=&c{0} ist nicht gemutet!
 notMutedIP=&c{0} ist nicht IP gemutet.
 unmuteBroadcast=&a{0}&e wurde von &a{1}&e vom Server &a{2}&6 entmutet. &eGrund : {3}
-wasMutedNotif=Du wurdest gemutet. &eGrund : {0}
-wasUnmutedNotif=Du wurdest entmutet. &eGrund : {0}
+wasMutedNotif=&7« &eSwishMC &7» Du wurdest gemutet. &eGrund : {0}
+wasUnmutedNotif=&3Du wurdest entmutet &c{0}
 loadingMutedata=Daten werden gerade abgerufen! Bitte versuche es in wenigen Sekunden nochmal!
  
 # Kick module
 kickBroadcast=&a{0}&e wurde von &a{1}&e vom Server &a{2}&6 gekickt! &eGrund : {3}
 gKickBroadcast=&a{0}&e wurde von &a{1}&e vom Netzwerk gekickt! &eGrund : {2}
-wasKickedNotif=Du wurdest gekickt! Grund : {0}
+wasKickedNotif= &7« &eSwishMC &7» &3Du wurdest von SwishMC gekickt &c{0}
 cantKickDefaultServer=&cDer Spieler {0} befindet sich bereits auf dem standard Server. Du kannst ihn nicht kicken.
  
 # Comment module
